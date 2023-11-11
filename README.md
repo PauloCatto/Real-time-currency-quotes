@@ -1,4 +1,7 @@
-<strong>Real-time currency quotes</strong>
+<strong> <h3>Real-time currency quotes</h3> </strong>
+<br>
+https://paulocatto.github.io/Real-time-currency-quotes/
+<br>
 
 Este é um projeto de dashboard desenvolvido como parte de um curso da Alura, apresentando informações em tempo real sobre cotações de moedas estrangeiras. O dashboard exibe variações nas cotações do Dólar (USD), Euro (EUR), e Iene Japonês (JPY) em relação ao Real Brasileiro (BRL).
 
@@ -26,5 +29,8 @@ A biblioteca Chart.js é fundamental para a representação gráfica das variaç
 <br>
 <br>
 <br>
+
+
+![Captura de Tela (11)](https://github.com/PauloCatto/Real-time-currency-quotes/assets/108766424/710e96ce-a55d-48d4-b2a6-0b269ea05a64)
 
 
