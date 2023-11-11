@@ -1,22 +1,30 @@
-<p align="center"> <img src="https://imgur.com/1mc1qX7.png" alt="JavaScript: trabalhando com threads para requisições simultâneas"> </p>
+<strong>Real-time currency quotes</strong>
 
-<hr>
+Este é um projeto de dashboard desenvolvido como parte de um curso da Alura, apresentando informações em tempo real sobre cotações de moedas estrangeiras. O dashboard exibe variações nas cotações do Dólar (USD), Euro (EUR), e Iene Japonês (JPY) em relação ao Real Brasileiro (BRL).
 
-<p align="center"> <img src="https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png" alt="Logo da Alura"> </p>
-<p align="center">Bytebank: o seu banco digital!</p>
+<strong>Tecnologias Utilizadas</strong>
+<br>
+<strong>HTML e CSS:</strong> A estrutura e o estilo do dashboard foram construídos usando HTML e CSS, proporcionando uma interface limpa e responsiva.
 
-## Assuntos abordados durante o curso
-* Fetch API
-* Threads
-* Concorrência
-* Paralelismo
-* Event Loop
-* Task Queue
-* WebWorkers
-* Single Thread
-* MultiThread
+<strong>JavaScript:</strong> A lógica dinâmica do dashboard é implementada em JavaScript, incluindo a interação com a API AwesomeAPI para obter as cotações em tempo real.
 
-## Tecnologias utilizadas no projeto
-* HTML
-* CSS
-* JavaScript
+<strong>Chart.js:</strong> A biblioteca Chart.js foi empregada para criar gráficos de linha representando as variações nas cotações ao longo do tempo.
+
+<strong>Organização do Projeto</strong>
+<br>
+O projeto está estruturado em diferentes seções:
+
+<strong>Sidebar:</strong> Contendo o logo do ByteBank, avatar do usuário, nome e links para diferentes seções do dashboard.
+
+<strong>Dashboard:</strong> Apresenta gráficos de linha e informações detalhadas sobre as variações nas cotações de Dólar, Euro e Iene.
+
+<strong>Workers:</strong> Utiliza workers para realizar chamadas assíncronas às APIs AwesomeAPI em segundo plano, garantindo uma experiência contínua ao usuário.
+
+<strong>Uso da Biblioteca Chart.js</strong>
+A biblioteca Chart.js é fundamental para a representação gráfica das variações nas cotações das moedas. Os gráficos de linha proporcionam uma visualização clara das tendências ao longo do tempo, tornando mais fácil para o usuário entender as flutuações nas cotações.
+
+<br>
+<br>
+<br>
+
+
